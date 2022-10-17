@@ -5,51 +5,63 @@
 1. git -- version
 
   explanation=> this command is use to know git version installed in local system.
-![](../git%20image/gitversion.JPG)
+  ![gitversion](https://user-images.githubusercontent.com/29401813/196105132-a81f31b0-f94e-441a-86c4-52fab1551a1d.JPG)
 
 2. git clone url
-explanation=> this command is use to clone existing repo.
-![](../git%20image/gitclone.JPG)
+  explanation=> this command is use to clone existing repo.
+  ![gitclone](https://user-images.githubusercontent.com/29401813/196105245-46e603a0-d9d5-44e0-a628-3998b907b441.JP
 
 3. git status 
-explanation=>this command is use to check the status.
-![](../git%20image/gitstatus.JPG)
+  explanation=>this command is use to check the status.
+  ![gitstatus](https://user-images.githubusercontent.com/29401813/196105312-46caced0-6fe3-4494-a912-b78d4411d8aa.JPG)
 
 4. git add . 
-explanation=>this command is use to add files.
-![](../git%20image/gitadd.JPG)
+  explanation=>this command is use to add files.
+  ![gitadd](https://user-images.githubusercontent.com/29401813/196105374-52069669-ab41-4fa2-ae6c-0db43a22e409.JPG)
+
 5. git commit 
-explanation=>this command is use to commit the files.
+  explanation=>this command is use to commit the files.
+  ![gitcommit](https://user-images.githubusercontent.com/29401813/196105462-ff3696d2-74de-4594-a318-367d93d14de4.JPG)
 
 6. git push origin main 
-explanation=>this command is use to push the files to the main repo.
+   explanation=>this command is use to push the files to the main repo.
+   ![gitpush](https://user-images.githubusercontent.com/29401813/196105545-32c5a0a6-9488-40ac-8ce9-b1206f4c88c4.JPG)
 
 7. git branch new_branch 
-explanation=>this command is use to create a new branch.
+   explanation=>this command is use to create a new branch.
+   ![gitcreatenewbranch](https://user-images.githubusercontent.com/29401813/196105651-08beb784-f88f-414a-947e-fa7a73ee74fe.JPG) 
 
 8. git chekout new_branch 
-explanation=>this command is use to move to the new branch.
+   git switch new_branch
+   explanation=>this command is use to switch to the new branch.
+   ![switchbranch](https://user-images.githubusercontent.com/29401813/196105756-713d2b1e-5947-4683-b951-f1eea42366b2.JPG)
+   ![checkouttobranch](https://user-images.githubusercontent.com/29401813/196106163-fd35ba35-82ee-440b-9d3d-eebb4eaa7eb7.JPG)
+
 
 9. git branch 
-explanation=>this command is use to check the branch.
+   explanation=>this command is use to check the branch.
+   ![gitbranch](https://user-images.githubusercontent.com/29401813/196106411-cec84602-fac2-4eea-bd32-bf4631578708.JPG)
 
 10. git commit -amend 
-explanation=>this command is use to modify the recent commit.
+    explanation=>this command is use to modify the recent commit.
 
 11. git log 
-explanation=>this command is use to check the logs.
+    explanation=>this command is use to check the logs.
+    ![gitlog](https://user-images.githubusercontent.com/29401813/196106677-08a15447-87f6-4708-a92a-e3846d2a81e7.JPG)
+
 
 12. git merge 
-explanation=>this command is use to merge the new branch with main.
+    explanation=>this command is use to merge the new branch with main.
 
 13. git branch -d new_branch 
-explanation=>this command is use to delete the new branch.
+    explanation=>this command is use to delete the new branch.
+    ![createanddeletebranch](https://user-images.githubusercontent.com/29401813/196107359-d1e611e4-3e58-4505-b8e5-6e80cc313e6a.JPG)
 
 14. git reflog 
-explanation=>this command is use to check the updates of the log.
+    explanation=>this command is use to check the updates of the log.
 
 15. git show 
-explanation=>this command is use to check all the details.
+    explanation=>this command is use to check all the details.
 
 
 
