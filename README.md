@@ -71,10 +71,13 @@
     ![createanddeletebranch](https://user-images.githubusercontent.com/29401813/196107359-d1e611e4-3e58-4505-b8e5-6e80cc313e6a.JPG)
 
 14. git reflog 
+
     explanation=>this command is use to check the updates of the log.
+    ![gitreflog](https://user-images.githubusercontent.com/29401813/196111211-d3314d46-d10b-4f14-9f05-34feb48dbe0a.JPG)  
 
 15. git show 
-    explanation=>this command is use to check all the details.
 
+    explanation=>this command is use to check all the details.
+    ![gitshow](https://user-images.githubusercontent.com/29401813/196111451-31b43621-34cb-4d5e-abaa-efaa1b50865f.JPG)
 
 
