@@ -10,7 +10,7 @@
 2. git clone url
    
    explanation=> this command is use to clone existing repo.
-  
+  ![gitclone](https://user-images.githubusercontent.com/29401813/196109765-52f841b5-2b92-4e53-b69d-63ce901cfd9c.JPG)
 
 3. git status 
 
