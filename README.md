@@ -54,6 +54,7 @@
 10. git commit -amend
 
     explanation=>this command is use to modify the recent commit.
+    ![gitcommitamend](https://user-images.githubusercontent.com/29401813/196113188-32dc8a15-63f0-4742-8800-cb3688bf60dd.JPG)
 
 11. git log 
 
