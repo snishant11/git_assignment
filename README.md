@@ -30,22 +30,24 @@ explanation=>this command is use to add files.
 explanation=>this command is use to commit the files.
 ![gitcommit](https://user-images.githubusercontent.com/29401813/196100566-7cc54a19-237d-4bc4-be0e-17b8106ae0dc.JPG)
 
-6. git branch 
 
-explanation=>this command is use to check the branch.
 
-7. git push origin main 
+6. git push origin main 
 
 explanation=>this command is use to push the files to the main repo.
 ![gitpush](https://user-images.githubusercontent.com/29401813/196100711-77648b90-2c6e-4a73-a6eb-98284cf3f921.JPG)
 
-8. git branch new_branch 
+7. git branch new_branch 
 
 explanation=>this command is use to create a new branch.
 
-9. git chekout new_branch 
+8. git chekout new_branch 
 
 explanation=>this command is use to move to the new branch.
+
+9. git branch 
+
+explanation=>this command is use to check the branch.
 
 10. git commit -amend 
 
