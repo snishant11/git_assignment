@@ -69,11 +69,11 @@
     
     
     updated and push through new_dev branch and then merge manually to main branch in github repo
-    
-   ![changefromnewbranch3](https://user-images.githubusercontent.com/29401813/196115340-59be1421-fa21-4e6a-8cf6-6a5d5dadf84b.JPG)
+   
    ![changefromnewbranch](https://user-images.githubusercontent.com/29401813/196115348-625278df-a9fd-426b-a064-643fe763379e.JPG)
    ![changefromnewbranch1](https://user-images.githubusercontent.com/29401813/196115350-d741ed5f-a39f-4ed4-857e-d443cc054500.JPG)
    ![changefromnewbranch2](https://user-images.githubusercontent.com/29401813/196115354-f21a9ce8-f0aa-47fd-8832-5dfffaa4ed56.JPG)
+   ![changefromnewbranch3](https://user-images.githubusercontent.com/29401813/196115340-59be1421-fa21-4e6a-8cf6-6a5d5dadf84b.JPG)
 
 13. git branch -d new_branch 
 
